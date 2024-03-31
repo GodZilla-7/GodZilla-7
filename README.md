@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @GodZilla-7
-- 👨🏼‍💻 Real Name Gaurav Shukla
+- 👋 Hi, I’m Gaurav Shukla
 - 👀 I’m interested in Ios Devlopment
 - 🌱 I’m currently learning Front-End Devlopment
 - 📫 Reach me at- gouravshukla337@gmail.com
