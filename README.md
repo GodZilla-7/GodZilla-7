@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gaurav Shukla
 - 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently Data Structures and Algorithms
+- 🌱 I’m currently learning Data Structures and Algorithms
 - 📫 Reach me at- gouravshukla337@gmail.com
 - 😄 Pronouns: He/Him
 
